@@ -1,14 +1,18 @@
 ﻿using JonasSoftHouseConverter.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace JonasSoftHouseConverter.Helpers
 {
+    /// <summary>
+    /// Console helpers
+    /// </summary>
     public static class ConsoleHelper
     {
+        public static void PrintWelcome()
+        {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Weldcome to the Cvs to XML Converter\r\n");
+            Console.ResetColor();
+        }
         public static void PrintMenu()
         {
             Console.WriteLine("Choose an option:");

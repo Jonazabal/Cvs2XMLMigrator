@@ -6,3 +6,5 @@
 /JonasSoftHouseConverter/obj
 /.vs/Cvs2XMLMigrator/v17
 *.suo
+/JonasSoftHouseConverter/bin/Debug/net6.0
+/.vs/JonasSoftHouseConverter/DesignTimeBuild

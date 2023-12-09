@@ -2,8 +2,6 @@
 using JonasSoftHouseConverter.Extensions;
 using JonasSoftHouseConverter.Helpers;
 using JonasSoftHouseConverter.Models;
-
-Console.WriteLine("Weldcome to the Jonas Softhose Converter");
 bool showMenu = true;
 string filePath = string.Empty;
 MigrationResult response = new MigrationResult();
@@ -12,6 +10,8 @@ while (showMenu)
 {
     Console.Clear();
 
+    ConsoleHelper.PrintWelcome();
+    
     // Print message if any
     if (!string.IsNullOrEmpty(response.Message))
         ConsoleHelper.PrintMessage(response, filePath);
