@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cvs2XmlConverter", "JonasSoftHouseConverter\Cvs2XmlConverter.csproj", "{81FEFD8E-C2DA-44BB-8A1A-9EAEE164A6AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cvs2XmlConverter", "Cvs2XmlConverter\Cvs2XmlConverter.csproj", "{81FEFD8E-C2DA-44BB-8A1A-9EAEE164A6AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

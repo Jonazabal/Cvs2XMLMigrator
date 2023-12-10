@@ -8,3 +8,4 @@
 *.suo
 /JonasSoftHouseConverter/bin/Debug/net6.0
 /.vs/JonasSoftHouseConverter/DesignTimeBuild
+/.vs
