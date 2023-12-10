@@ -1,4 +1,4 @@
-# JoxCvs2XMLMigrator
+# Cvs2XMLMigrator
 Application to migrate data from csv to XML
 
 The project contains an example input cvs file to migrate
