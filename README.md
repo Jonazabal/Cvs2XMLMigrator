@@ -1,5 +1,6 @@
 # Cvs2XMLMigrator
 Application to migrate data from csv to XML
+Developed using Visual Studio 2022 and using .NET 6.0
 
 - The project contains an example file to migrate in Cvs2XmlConverter/ExampleFiles
 - The code assumes you use a cvs with a | as delimiter
